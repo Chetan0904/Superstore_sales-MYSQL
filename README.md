@@ -25,17 +25,18 @@ and create other business questions to explore.
 7. Miscellaneous Queries
 
 # Questions
-A1. How many years of transactions are there? 
-A2. What are the dates of the first and last orders placed? 
-A3 Are there consistent orders throughout the year for each year?
+1. How many years of transactions are there? 
+2. What are the dates of the first and last orders placed? 
+3. Are there consistent orders throughout the year for each year?
+----------------------------------------------------
 
-B1 What is the total profit per year?
-B2 What is the YoY Profit Growth rate?
-B3 With shipping cost being the only expense data available, what is the total shipping cost per year?
-B4 What is the change in shipping cost YoY?
-B5 What are the cumulative sales, quantity of items ordered, total number of orders, 
+1. What is the total profit per year?
+2. What is the YoY Profit Growth rate?
+3. With shipping cost being the only expense data available, what is the total shipping cost per year?
+4. What is the change in shipping cost YoY?
+5. What are the cumulative sales, quantity of items ordered, total number of orders, 
    average sales per order, average discount rate, and average unit price of items sold per year?
-B6 How many orders got returned each year and what is the yearly revenue loss due to the product returns?
+6. How many orders got returned each year and what is the yearly revenue loss due to the product returns?
 
 C1 What is the biggest customer segment? 
 C2 Which customer segment did the top 10 customers with the most total orders belong to?
