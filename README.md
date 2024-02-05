@@ -12,3 +12,4 @@ and create other business questions to explore.
 4. new_customer.csv -
 
 # Schema diagram
+![Schema_diagram](https://github.com/Chetan0904/Superstore_sales-MYSQL/assets/137276849/cfd86777-fe1e-4e8f-916b-275989fdbac2)
