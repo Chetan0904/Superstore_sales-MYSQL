@@ -5,6 +5,10 @@ SUPERSTORE SALES ANALYSIS
 Objective: Determine if the business is doing better or worse YoY, 
 and create other business questions to explore.
 
+# Tools Used
+1. MySQL Workbench
+2. Excel
+
 # Dataset used
 1. order_new.csv - This dataset contain details like sales, shipping, sales, profit and unitprice.
 2. new_return.csv - This dataset contain the order details which are returned.
