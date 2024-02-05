@@ -59,7 +59,7 @@ D12 Who were the top customers that placed these orders?
 
 On which day of week was the biggest sales order made? What was the product? 
 
-Miscellaneous Queries
+# Miscellaneous Queries
 E1 What are the smallest and largest order quantities and sales by year and month?
 E2 Which Shipping Mode has the highest average order shipping cost? 
 E3 Which Product SubCategory has the highest average base margin?
