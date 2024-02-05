@@ -16,13 +16,13 @@ and create other business questions to explore.
 
 # Data analysis and questions
 
-A. Creating the database and the product, orders, customer, and returns tables
-B. Exploring the timeframe and dates of the data
-C. Exploring top profit, expenses, sales, orders and avearages per year
-D. Exploring Customer Info 
-E. Exploring the top sales, products, and customer info per year
-F. Conclusion
-G. Miscellaneous Queries
+1. Creating the database and the product, orders, customer, and returns tables
+2. Exploring the timeframe and dates of the data
+3. Exploring top profit, expenses, sales, orders and avearages per year
+4. Exploring Customer Info 
+5. Exploring the top sales, products, and customer info per year
+6. Conclusion
+7. Miscellaneous Queries
 
 # Questions
 A1. How many years of transactions are there? 
